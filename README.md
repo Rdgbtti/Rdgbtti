@@ -1,31 +1,56 @@
-<h1 align="left">Sobre Mim</h1>
+# Rodrigo Benedetti
 
-###
+QA Automation Engineer especializado em automação de testes para aplicações Mobile, Web e APIs utilizando Java.
 
-<p align="left">Olá! Eu sou Rodrigo Benedetti, um Analista de Software especializado em testes automatizados. Com mais de 7 anos de experiência na área, tenho um forte foco em garantir a qualidade do software através de testes em todas as camadas: unitário, sistema e end-to-end.</p>
+## Tech Stack
 
-###
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<h2 align="left">Habilidades Técnicas</h2>
+---
 
-###
+## Atualmente focado em
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-</div>
+- Mobile Test Automation
+- API Testing
+- Web Automation
+- CI/CD Pipelines
+- Scalable Test Architecture
 
-###
+---
+
+## Projetos em destaque
+
+### Mobile Automation Framework
+Framework de automação mobile utilizando:
+- Java
+- Appium 2
+- TestNG
+- Maven
+- Allure Reports
+- GitHub Actions
+
+### API Test Automation
+Projeto de automação de APIs com:
+- RestAssured
+- Schema Validation
+- Authentication Tests
+- Reporting
+
+### Web Automation Framework
+Automação web utilizando:
+- Selenium WebDriver
+- Page Object Model
+- Parallel Execution
+- CI Integration
+
+---
+
+## Contato
+
+- LinkedIn: [SEU_LINK](https://www.linkedin.com/in/rodrigo-b-681781101/)
+- Email: rodrigobenedetti@outlook.com.br
