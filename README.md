@@ -52,5 +52,5 @@ Automação web utilizando:
 
 ## Contato
 
-- LinkedIn: [SEU_LINK](https://www.linkedin.com/in/rodrigo-b-681781101/)
+- LinkedIn:https://www.linkedin.com/in/rodrigo-b-681781101
 - Email: rodrigobenedetti@outlook.com.br
